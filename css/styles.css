@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #ffff0085;
+}
+#timer {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 60%;
+    width: 1440px;
+    border: 1px solid black;
+}
